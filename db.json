@@ -7,8 +7,8 @@
       "article_nombre_decimale": 2,
 	  "quantite_enum_type_arrondi": "COMPTABLE",
 	  "quantite_nombre_decimale": 2,
-	  "autoriser_gratuite": true,
-	  "afficher_tva": true
+	  "si_autoriser_gratuite": true,
+	  "si_afficher_detail": true
     },
 	{
       "uid": "6e6060ba-dfe3-4cef-a6fe-c3f232b268d6",
@@ -17,8 +17,8 @@
       "article_nombre_decimale": 2,
 	  "quantite_enum_type_arrondi": "SUPERIEUR",
 	  "quantite_nombre_decimale": 2,
-	  "autoriser_gratuite": true,
-	  "afficher_tva": true
+	  "si_autoriser_gratuite": true,
+	  "si_afficher_detail": true
     }
   ]
 }
