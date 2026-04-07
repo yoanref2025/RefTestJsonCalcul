@@ -3,9 +3,9 @@
     {
       "uid": "01c54fe3-ce5c-438d-8766-52043050bd01",
 	  "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
-      "article_enum_type_arrondi": "COMPTABLE",
+      "article_enum_type_arrondi": "COM",
       "article_nombre_decimale": 2,
-	  "quantite_enum_type_arrondi": "COMPTABLE",
+	  "quantite_enum_type_arrondi": "COM",
 	  "quantite_nombre_decimale": 2,
 	  "si_autoriser_gratuite": true,
 	  "si_afficher_detail": true
@@ -13,9 +13,9 @@
 	{
       "uid": "6e6060ba-dfe3-4cef-a6fe-c3f232b268d6",
 	  "uid_r": "01d268d8-fed9-41dd-9373-19d06059a289",
-      "article_enum_type_arrondi": "SUPERIEUR",
+      "article_enum_type_arrondi": "SUP",
       "article_nombre_decimale": 2,
-	  "quantite_enum_type_arrondi": "SUPERIEUR",
+	  "quantite_enum_type_arrondi": "SUP",
 	  "quantite_nombre_decimale": 2,
 	  "si_autoriser_gratuite": true,
 	  "si_afficher_detail": true
